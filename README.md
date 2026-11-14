@@ -56,6 +56,6 @@
 Чтобы запустить у себя:
 1. Клонировать репозиторий и поставить зависимости:
 ```bash
-git clone [https://github.com/sereba-killer/antifraud-scoring-engine.git](https://github.com/sereba-killer/antifraud-scoring-engine.git)
+git clone https://github.com/sereba-killer/antifraud-scoring-engine.git
 cd antifraud-scoring-engine
 pip install -r requirements.txt
